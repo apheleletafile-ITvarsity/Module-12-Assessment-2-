@@ -1,0 +1,100 @@
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    left:0;
+    bottom: 0;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+}
+
+#header{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    padding: 15px 0;
+    background-color: #f262f7;
+}
+
+input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 3px solid #f262f7; 
+}
+
+table{  
+    width: 100%;
+    border-collapse: collapse;  
+    background-color: white;
+}  
+  
+td{  
+    border: 1px solid #f262f7;  
+    padding: 5px;  
+    text-align: left;  
+}   
+
+.team .col-lg-4 {
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+button{
+    background-color: #f262f7;
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.section-divider{ 
+    margin: 3rem 0;
+}
+
+.footer-section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+@media (min-width: 1200px) {
+  .feature-heading {
+    margin-top: 10rem;
+  }
+}
+
+@media (max-width: 540px) {
+    .carouselImg {
+        display: none;
+    }
+    
+    .team {
+        margin-top: 2rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
